@@ -22,24 +22,25 @@ ____________________________________________________________________
 * 佳因企業/平面設計：協助客戶處理平面稿轉為印刷模板/公司網站維護。
 * 鼎運旅遊/網頁設計：活動頁面設計/平面印刷物設計。
 
-    
 ____________________________________________________________________
 
 ## 作品 
 
-* [HiMirror 官網 (與同事協作) / 及負責後續官網維護](https://www.himirror.com/tw_zh_tw/home)
+* [公司官網 - XYZprinting](https://www.xyzprinting.com/en-US/home)
+  * Angular 2+
+  * i18n / Route
+  * 全站 API 串接
+  * [篩選機制](https://www.xyzprinting.com/en-US/product)
+  
+
+* 公司官網 - Himirror 
+  * 使用框架 Play framework 2.x 搭配 Angular JS
   * 多國語言RWD網站建置
-  * [AJAX撈取JSON資料，呈現在頁面上](https://www.himirror.com/jp_ja/beauty-tip#0)
-  * [使用Angular JS及 CSS flexBox製作產品比較頁面](https://www.himirror.com/us_en/product/compare)
-  * Javascript及CSS網頁動態效果製作
-    * [HiMirror-Plus](https://www.himirror.com/us_en/product/himirror-plus)
-    * [HiMirror-Plus+](https://www.himirror.com/us_en/product/himirror-plusplus)
+  * [CSS FlexBox 製作產品比較頁面](https://www.himirror.com/en-US/product/compare)
+  * [API串接及瀑布流載入](https://www.himirror.com/en-US/user-story)
+  * 網頁動態效果製作
+    * [HiMirror-Plus](https://www.himirror.com/en-US/product/himirror-plus)
  
-* [NEW Era AI 官網 / 後續官網維護](https://www.neweraai.com/tw_zh_tw/home)
-  * 多國語言RWD網站建置
-  * [AJAX撈取JSON資料，呈現在頁面上](https://www.neweraai.com/tw_zh_tw/sharing/edutainment-robot/educational-kits/bolide)
-  * AJAX POST 資料及表單驗證
-  * [jQuery 第三方套件製作動態效果](https://www.neweraai.com/tw_zh_tw/product/edutainment-robot/robot-toy/wheeled-robot#bottomSpecAnimate)
 
 * 其他
   * [多國時鐘](https://codepen.io/zhenzhen/pen/KQezJy)
