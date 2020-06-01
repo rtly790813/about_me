@@ -1,4 +1,6 @@
 # 楊玗真 ( Yu-Chen Yang )
+
+  曾在公司擔任網頁設計師，透過在職期間自學 Javascript 及 Angular，開始接手全新專案的開發，從程式架構、模組規劃、提高程式的複用性，過程中像海綿一樣不斷的吸收新知識，喜愛深入了解程式的基本原理，也樂於學習新技術與同事分享及討論，來共同成長及提升自我。<br>
   Education: 致理科技大學/多媒體設計系 </br>
   Location: Taipei City </br> 
   E-mail: rtly790813@gmail.com </br>
@@ -7,41 +9,56 @@ ____________________________________________________________________
 ## 專業技能
 
 ### 前端
-* 熟悉 HTML5 + CSS 完成RWD頁面架構和布局；不依賴 Framework 進行 RWD 客製化，開發符合各裝置尺寸的網站建置。
+* 熟悉 HTML5 + 基本語法與CSS3 呈現網頁動態效果，完成RWD頁面架構和布局；
+* 不依賴 Framework 進行 RWD 客製化，開發符合各裝置尺寸的網站建置。
 * 使用 SCSS 管理網頁版型。
-* 了解 Javascript 基本語法與CSS3 呈現網頁動態效果。
-* Angular 框架使用
-* 利用 AJAX 撈取遠端JSON資料並顯示在網頁上
+* 熟悉 Javascript 基本原理。
+* 熟悉 Angular 框架。
+* 利用 AJAX 撈取遠端 JSON 資料並顯示在網頁上
 * 了解 Git / Github 與基本指令運用 (GUI:Source Tree)
 
 ____________________________________________________________________
 
 ## 工作經歷
 
-* 金寶電子/前端工程師(在職中)：官方網站建置及維護/與後端合作串接資料。
-* 佳因企業/平面設計：協助客戶處理平面稿轉為印刷模板/公司網站維護。
-* 鼎運旅遊/網頁設計：活動頁面設計/平面印刷物設計。
+* 金寶電子 | 前端工程師 (2016/10 - 在職中)：
+1. 維護舊有網站及新功能開發。
+2. 從 0 開始規劃網站架構及功能模組化到開發完成。
+3. 能夠盡量減少重複程式來完成響應式網站，並支援不同瀏覽器及裝置。
+4. 依據設計稿完成功能以及與設計師討論可行性。
+5. 與後端協作串接 API。
+
+* 鼎運旅遊 | 網頁設計 (2016/8 - 2016/9)：
+1.活動頁面設計
+2.平面印刷物設計。
+
+* 佳因企業 | 平面設計 (2012/10 - 2015/10)：
+1.公司網站維護。
+2.協助客戶排稿、修稿、畫稿事宜。
+3.提供印刷代工及相關耗材報價，評估客戶印刷素材可行性。
+4.耗材接單及安排場內生產製作流程。
+5.DM製作、名片及信封設計。
 
 ____________________________________________________________________
 
 ## 作品 
 
-* [公司官網 - XYZprinting](https://www.xyzprinting.com/en-US/home)
-  * Angular 2+
-  * i18n / Route
-  * 全站 API 串接
-  * [篩選機制](https://www.xyzprinting.com/en-US/product)
-  
+* 公司平台 - 3D 模型 Gallery (尚未上線)
+  提供 3D 列印愛好者互相分享創作的平台。 
+  負責全站的架構及模組規劃，開發上傳 / 下載模型、3D預覽、收藏以及留言等功能。
+  * HTML5 + CSS3 RWD 切版
+  * 使用 Angular 開發專案 
+  * i18n 多國語系建置
+  * 串接後端 API
+  * 透過 three.js 達成各種模型檔案的預覽
 
-* 公司官網 - Himirror 
-  * 使用框架 Play framework 2.x 搭配 Angular JS
-  * 多國語言RWD網站建置
+* 公司官網 - XYZprinting 維護及功能開發
+  * [篩選機制](https://www.xyzprinting.com/en-US/product)
+
+* 公司官網 - Himirror 維護及功能開發
   * [CSS FlexBox 製作產品比較頁面](https://www.himirror.com/en-US/product/compare)
   * [API串接及瀑布流載入](https://www.himirror.com/en-US/user-story)
-  * 網頁動態效果製作
-    * [HiMirror-Plus](https://www.himirror.com/en-US/product/himirror-plus)
  
-
 * 其他
   * [多國時鐘](https://codepen.io/zhenzhen/pen/KQezJy)
 
